@@ -1,0 +1,22 @@
+/* 
+ * Plugin option page css
+ * @author: vitthal 
+ */
+
+.vit-options-container {
+    margin: 5px 15px 2px;
+    padding: 1px 12px;
+}
+ul.social-icons {
+    padding: 10px;
+    padding-bottom: 20px;
+}
+.vit-social-options-form {
+    float: left;
+}
+.vit-social-options-form label {
+    padding-right: 15px;
+}
+.vit-clear {
+    clear: both; float: left; display: block; position: relative;
+}
